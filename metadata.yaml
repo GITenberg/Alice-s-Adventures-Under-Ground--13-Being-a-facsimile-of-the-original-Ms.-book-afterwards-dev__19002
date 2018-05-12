@@ -14,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
 description: 'Faksimileudgave af forfatterens håndskrevne manuskript til den originale
   version af: Alice''s adventures in Wonderland. Med forfatterens egne illustrationer'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19002#Alice-s-Adventures-Under-Ground--13-Being-a-facsimile-of-the-original-Ms.-book-afterwards-dev_
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-08-07'
 gutenberg_type: Text
