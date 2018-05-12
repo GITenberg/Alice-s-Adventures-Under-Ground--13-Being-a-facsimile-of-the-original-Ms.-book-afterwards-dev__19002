@@ -1,0 +1,45 @@
+_repo: Alice-s-Adventures-Under-Ground--13-Being-a-facsimile-of-the-original-Ms.-book-afterwards-dev__19002
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19002-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: 'Faksimileudgave af forfatterens håndskrevne manuskript til den originale
+  version af: Alice''s adventures in Wonderland. Med forfatterens egne illustrationer'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19002'
+language: en
+publication_note: "London\r\nMacmillan And Co.\r\nAnd New York\r\n1886"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcc 'PR'
+summary: This edition of the story of the little girl who falls down a rabbit hole
+  and discovers a world of nonsensical and amusing characters is illustrated by the
+  author himself.
+tableOfContents: "I.  \t   \tDown the Rabbit-Hole. The Pool of Tears\r\nII. \t  \t\
+  A Long Tale. The Rabbit Sends in a Little Bill\r\nIII. \t  \tAdvice From a Caterpillar\r\
+  \nIV. \t  \tThe Queen's Croquet-Ground. The Mock Turtle's Story. The Lobster Quadrille.\
+  \ Who Stole the Tarts?"
+title: "Alice's Adventures Under Ground\r\nBeing a facsimile of the original Ms. book\
+  \ afterwards developed into \"Alice's Adventures in Wonderland\""
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 19002/19002-h/images/image_092.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/19002
